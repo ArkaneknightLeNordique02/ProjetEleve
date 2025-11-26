@@ -1,0 +1,16 @@
+[
+    {
+        "nom": "Jean Dupont",
+        "matières": {
+            "Math": 8.5,
+            "Physique": 4.0
+        }
+    },
+    {
+        "nom": "Alice Durand",
+        "matières": {
+            "Histoire": 6.0,
+            "Anglais": 7.5
+        }
+    }
+]
